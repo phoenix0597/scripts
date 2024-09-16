@@ -1,0 +1,1 @@
+Searches for executable files in a specified directory
